@@ -2385,6 +2385,14 @@ html .list_ {
     margin-right: 0 !important;
   }
 }
+body .list_ li,
+html .list_ li {
+  color: white;
+}
+body .list_ li a[href],
+html .list_ li a[href] {
+  color: white;
+}
 body .list_ li:before,
 html .list_ li:before {
   content: "";

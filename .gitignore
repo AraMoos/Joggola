@@ -4,6 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+assets/scss
+watch.cmd
+
 # Other files and folders
 .settings/
 
